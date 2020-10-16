@@ -1,4 +1,4 @@
-##Step 1 : Scrapping
+## Step 1 : Scrapping
 - All the files for scrapping is in Scrapping_files direcctory
 - Scrapper.py contains
     * build_query: builds the query for the website
@@ -14,9 +14,9 @@
 - After executing scrapper.py the images are obtained in cwd.
 in repective folders
 
-##Step 2 : CNN architecture and model training
+## Step 2 : CNN architecture and model training
 
-##Step3 : Creating the Flask api
+## Step3 : Creating the Flask api
 
  
  
