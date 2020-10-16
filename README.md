@@ -43,4 +43,4 @@ training info
 - train_model.py : file for model training
 - requirements.txt : requirements file for creating the virtual env
  
- 
+ [Dataset obtained by scrapping](https://drive.google.com/drive/folders/15fvbfat4FImZRJ344eIv4TbMVtkoO54t?usp=sharing)
